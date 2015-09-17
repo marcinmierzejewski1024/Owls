@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog sów</string>
+    <string name="title_birddescription_detail">BirdDescription Detail</string>
+    <array name="owls">
+        <item name="tawny_owl">Puszczyk</item>
+        <item name="eagle_owl">Puchacz</item>
+        <item name="great_owl">Puszczyk mszarny</item>
+        <item name="ural_owl">Puszczyk uralski</item>
+        <item name="haw_owl">Sowa jarzębata</item>
+        <item name="tengmalms_owl">Włochatka</item>
+        <item name="long_eared_owl">Uszatka</item>
+        <item name="short_eared_owl">Uszatka Błotna</item>
+        <item name="barn_owl">Płomykówka</item>
+        <item name="little_owl">Pójdzka</item>
+    </array>
+</resources>

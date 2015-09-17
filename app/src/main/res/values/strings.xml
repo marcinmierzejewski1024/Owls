@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Owls</string>
+    <string name="title_birddescription_detail">BirdDescription Detail</string>
+    <array name="owls">
+        <item name="tawny_owl">Tawny owl</item>
+        <item name="eagle_owl">Eagle owl</item>
+        <item name="great_owl">Great gray owl</item>
+        <item name="ural_owl">Ural owl</item>
+        <item name="haw_owl">Hawk owl</item>
+        <item name="tengmalms_owl">Tengmalm's owl</item>
+        <item name="long_eared_owl">Long-eared owl</item>
+        <item name="short_eared_owl">Short-eared owl </item>
+        <item name="barn_owl">Barn owl</item>
+        <item name="little_owl">Little owl</item>
+    </array>
+</resources>
